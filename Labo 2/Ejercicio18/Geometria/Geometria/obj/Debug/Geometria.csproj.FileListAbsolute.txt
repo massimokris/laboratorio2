@@ -1,0 +1,7 @@
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio18\Geometria\Geometria\bin\Debug\Geometria.exe.config
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio18\Geometria\Geometria\bin\Debug\Geometria.exe
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio18\Geometria\Geometria\bin\Debug\Geometria.pdb
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio18\Geometria\Geometria\obj\Debug\Geometria.csprojAssemblyReference.cache
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio18\Geometria\Geometria\obj\Debug\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio18\Geometria\Geometria\obj\Debug\Geometria.exe
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio18\Geometria\Geometria\obj\Debug\Geometria.pdb

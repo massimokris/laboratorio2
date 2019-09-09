@@ -1,0 +1,7 @@
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio19\bin\Debug\Ejercicio19.exe
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio19\bin\Debug\Ejercicio19.pdb
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio19\obj\Debug\Ejercicio19.csprojAssemblyReference.cache
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio19\obj\Debug\Ejercicio19.csproj.CoreCompileInputs.cache
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio19\obj\Debug\Ejercicio19.exe
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio19\obj\Debug\Ejercicio19.pdb

@@ -1,0 +1,7 @@
+C:\Users\mdiberardino\Desktop\Labo 2\Ejercicio9\bin\Debug\Ejercicio9.exe.config
+C:\Users\mdiberardino\Desktop\Labo 2\Ejercicio9\bin\Debug\Ejercicio9.exe
+C:\Users\mdiberardino\Desktop\Labo 2\Ejercicio9\bin\Debug\Ejercicio9.pdb
+C:\Users\mdiberardino\Desktop\Labo 2\Ejercicio9\obj\Debug\Ejercicio9.csproj.CoreCompileInputs.cache
+C:\Users\mdiberardino\Desktop\Labo 2\Ejercicio9\obj\Debug\Ejercicio9.exe
+C:\Users\mdiberardino\Desktop\Labo 2\Ejercicio9\obj\Debug\Ejercicio9.pdb
+C:\Users\mdiberardino\Desktop\Labo 2\Ejercicio9\obj\Debug\Ejercicio9.csprojAssemblyReference.cache

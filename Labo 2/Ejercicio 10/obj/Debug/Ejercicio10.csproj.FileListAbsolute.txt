@@ -1,0 +1,14 @@
+C:\Users\mdiberardino\Desktop\Labo 2\Ejercicio 10\bin\Debug\Ejercicio 10.exe.config
+C:\Users\mdiberardino\Desktop\Labo 2\Ejercicio 10\bin\Debug\Ejercicio 10.exe
+C:\Users\mdiberardino\Desktop\Labo 2\Ejercicio 10\bin\Debug\Ejercicio 10.pdb
+C:\Users\mdiberardino\Desktop\Labo 2\Ejercicio 10\obj\Debug\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\mdiberardino\Desktop\Labo 2\Ejercicio 10\obj\Debug\Ejercicio 10.exe
+C:\Users\mdiberardino\Desktop\Labo 2\Ejercicio 10\obj\Debug\Ejercicio 10.pdb
+C:\Users\mdiberardino\Desktop\Labo 2\Ejercicio 10\obj\Debug\Ejercicio10.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Laboratorio II\Labo 2\Ejercicio 10\bin\Debug\Ejercicio 10.exe.config
+C:\Users\alumno\Desktop\Laboratorio II\Labo 2\Ejercicio 10\bin\Debug\Ejercicio 10.exe
+C:\Users\alumno\Desktop\Laboratorio II\Labo 2\Ejercicio 10\bin\Debug\Ejercicio 10.pdb
+C:\Users\alumno\Desktop\Laboratorio II\Labo 2\Ejercicio 10\obj\Debug\Ejercicio10.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Laboratorio II\Labo 2\Ejercicio 10\obj\Debug\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Laboratorio II\Labo 2\Ejercicio 10\obj\Debug\Ejercicio 10.exe
+C:\Users\alumno\Desktop\Laboratorio II\Labo 2\Ejercicio 10\obj\Debug\Ejercicio 10.pdb

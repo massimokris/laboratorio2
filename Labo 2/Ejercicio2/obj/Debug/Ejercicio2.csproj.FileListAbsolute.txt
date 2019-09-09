@@ -1,0 +1,6 @@
+D:\VisualStudio\ConsoleApp3\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+D:\VisualStudio\ConsoleApp3\Ejercicio2\bin\Debug\Ejercicio2.exe
+D:\VisualStudio\ConsoleApp3\Ejercicio2\bin\Debug\Ejercicio2.pdb
+D:\VisualStudio\ConsoleApp3\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ConsoleApp3\Ejercicio2\obj\Debug\Ejercicio2.exe
+D:\VisualStudio\ConsoleApp3\Ejercicio2\obj\Debug\Ejercicio2.pdb

@@ -1,0 +1,7 @@
+D:\VisualStudio\ConsoleApp3\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+D:\VisualStudio\ConsoleApp3\Ejercicio4\bin\Debug\Ejercicio4.exe
+D:\VisualStudio\ConsoleApp3\Ejercicio4\bin\Debug\Ejercicio4.pdb
+D:\VisualStudio\ConsoleApp3\Ejercicio4\obj\Debug\Ejercicio4.csprojAssemblyReference.cache
+D:\VisualStudio\ConsoleApp3\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ConsoleApp3\Ejercicio4\obj\Debug\Ejercicio4.exe
+D:\VisualStudio\ConsoleApp3\Ejercicio4\obj\Debug\Ejercicio4.pdb

@@ -1,0 +1,7 @@
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio16\bin\Debug\Ejercicio16.exe.config
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio16\bin\Debug\Ejercicio16.exe
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio16\bin\Debug\Ejercicio16.pdb
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio16\obj\Debug\Ejercicio16.csprojAssemblyReference.cache
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio16\obj\Debug\Ejercicio16.csproj.CoreCompileInputs.cache
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio16\obj\Debug\Ejercicio16.exe
+C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio16\obj\Debug\Ejercicio16.pdb
