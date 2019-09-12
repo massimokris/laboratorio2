@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -47,7 +47,7 @@ namespace Billetes
         public static explicit operator Euro(Peso p)
         {
 
-            Euro euro = new Euro(p.GetCantidad(), p.GetCotizacion());
+            Euro euro = new Euro((p.GetCantidad()/38.33)/1.16);
 
             return euro;
         }
@@ -55,7 +55,7 @@ namespace Billetes
         public static explicit operator Dolar(Peso p)
         {
 
-            Dolar dolar = new Dolar(p.GetCantidad(), p.GetCotizacion());
+            Dolar dolar = new Dolar((p.GetCantidad()/38.33));
 
             return dolar;
         }
@@ -83,7 +83,7 @@ namespace Billetes
         public static bool operator ==(Dolar d, Peso p)
         {
 
-            return d.GetCantidad().Equals(p.GetCantidad());
+            return d.GetCantidad().Equals((p.GetCantidad()/38.33));
         }
 
         public static bool operator !=(Dolar d, Peso p)
@@ -95,7 +95,7 @@ namespace Billetes
         public static bool operator ==(Euro e, Peso p)
         {
 
-            return e.GetCantidad().Equals(p.GetCantidad());
+            return e.GetCantidad().Equals((p.GetCantidad()/38.33)/1.16);
         }
 
         public static bool operator !=(Euro e, Peso p)
@@ -108,7 +108,7 @@ namespace Billetes
         {
 
             Peso europ = (Peso)p;
-            double cant = p.GetCantidad() + d.GetCantidad();
+            double cant = europ.GetCantidad() + d.GetCantidad();
             Peso Euro = new Peso(cant);
 
             return Euro;
@@ -117,31 +117,31 @@ namespace Billetes
         public static Peso operator -(Peso e, Euro p)
         {
 
-            Peso Pesop = (Peso)p;
-            double cant = e.GetCantidad() - p.GetCantidad();
-            Peso Peso = new Peso(cant);
+            Peso pesop = (Peso)p;
+            double cant = pesop.GetCantidad() - e.GetCantidad();
+            Peso peso = new Peso(cant);
 
-            return Peso;
+            return peso;
         }
 
         public static Peso operator +(Peso e, Dolar d)
         {
 
-            Peso Pesop = (Peso)d;
-            double cant = e.GetCantidad() + d.GetCantidad();
-            Peso Peso = new Peso(cant);
+            Peso pesop = (Peso)d;
+            double cant = e.GetCantidad() + pesop.GetCantidad();
+            Peso peso = new Peso(cant);
 
-            return Peso;
+            return peso;
         }
 
         public static Peso operator -(Peso e, Dolar d)
         {
 
-            Peso Pesop = (Peso)d;
-            double cant = e.GetCantidad() - d.GetCantidad();
-            Peso Peso = new Peso(cant);
+            Peso pesop = (Peso)d;
+            double cant = pesop.GetCantidad() - e.GetCantidad();
+            Peso peso = new Peso(cant);
 
-            return Peso;
+            return peso;
         }
     }
 
@@ -186,7 +186,7 @@ namespace Billetes
         public static explicit operator Peso(Euro e)
         {
 
-            Peso peso = new Peso(e.GetCantidad(), e.GetCotizacion());
+            Peso peso = new Peso((e.GetCantidad()*1.16)*38.33);
 
             return peso;
         }
@@ -194,7 +194,7 @@ namespace Billetes
         public static explicit operator Dolar(Euro e)
         {
 
-            Dolar dolar = new Dolar(e.GetCantidad(), e.GetCotizacion());
+            Dolar dolar = new Dolar(e.GetCantidad()*1.16);
 
             return dolar;
         }
@@ -222,7 +222,7 @@ namespace Billetes
         public static bool operator ==(Peso p, Euro e)
         {
 
-            return p.GetCantidad().Equals(e.GetCantidad());
+            return p.GetCantidad().Equals((e.GetCantidad()/1.16)/38.33);
         }
 
         public static bool operator !=(Peso p, Euro e)
@@ -234,7 +234,7 @@ namespace Billetes
         public static bool operator ==(Dolar d, Euro e)
         {
 
-            return d.GetCantidad().Equals(e.GetCantidad());
+            return d.GetCantidad().Equals(e.GetCantidad()/1.16);
         }
 
         public static bool operator !=(Dolar d, Euro e)
@@ -325,7 +325,7 @@ namespace Billetes
         public static explicit operator Peso(Dolar d)
         {
 
-            Peso peso = new Peso(d.GetCantidad(), d.GetCotizacion());
+            Peso peso = new Peso(d.GetCantidad()*38.33);
 
             return peso;
         }
@@ -333,7 +333,7 @@ namespace Billetes
         public static explicit operator Euro(Dolar d)
         {
 
-            Euro euro = new Euro(d.GetCantidad(), d.GetCotizacion());
+            Euro euro = new Euro(d.GetCantidad()/1.16);
 
             return euro;
         }
@@ -361,7 +361,7 @@ namespace Billetes
         public static bool operator ==(Peso p, Dolar d)
         {
 
-            return p.GetCantidad().Equals(d.GetCantidad());
+            return p.GetCantidad().Equals(d.GetCantidad()*38.33);
         }
 
         public static bool operator !=(Peso p, Dolar d)
@@ -373,7 +373,7 @@ namespace Billetes
         public static bool operator ==(Euro e, Dolar d)
         {
 
-            return e.GetCantidad().Equals(d.GetCantidad());
+            return e.GetCantidad().Equals(d.GetCantidad()/1.16);
         }
 
         public static bool operator !=(Euro e, Dolar d)

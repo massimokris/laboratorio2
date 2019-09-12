@@ -5,3 +5,13 @@ C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio20\bin\Debug\Ejerci
 C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio20\bin\Debug\Ejercicio20.pdb
 C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio20\obj\Debug\Ejercicio20.exe
 C:\Users\mdiberardino\Desktop\Laboratorio II\Labo 2\Ejercicio20\obj\Debug\Ejercicio20.pdb
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio20\bin\Debug\Ejercicio20.exe.config
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio20\bin\Debug\Ejercicio20.exe
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio20\bin\Debug\Ejercicio20.pdb
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio20\obj\Debug\Ejercicio20.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio20\obj\Debug\Ejercicio20.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio20\obj\Debug\Ejercicio20.exe
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio20\obj\Debug\Ejercicio20.pdb
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio20\bin\Debug\Moneda.dll
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio20\bin\Debug\Moneda.pdb
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio20\obj\Debug\Ejercicio20.csproj.CopyComplete
