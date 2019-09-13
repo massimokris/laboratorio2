@@ -185,6 +185,7 @@
             this.button3.TabIndex = 13;
             this.button3.Text = "->";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
@@ -195,6 +196,7 @@
             this.button4.TabIndex = 14;
             this.button4.Text = "->";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // textBox4
             // 
@@ -235,6 +237,7 @@
             this.textBox7.Name = "textBox7";
             this.textBox7.Size = new System.Drawing.Size(100, 20);
             this.textBox7.TabIndex = 18;
+            this.textBox7.TextChanged += new System.EventHandler(this.textBox7_TextChanged);
             // 
             // textBox8
             // 
@@ -244,6 +247,7 @@
             this.textBox8.Name = "textBox8";
             this.textBox8.Size = new System.Drawing.Size(100, 20);
             this.textBox8.TabIndex = 19;
+            this.textBox8.TextChanged += new System.EventHandler(this.textBox8_TextChanged);
             // 
             // textBox9
             // 
@@ -253,6 +257,7 @@
             this.textBox9.Name = "textBox9";
             this.textBox9.Size = new System.Drawing.Size(100, 20);
             this.textBox9.TabIndex = 20;
+            this.textBox9.TextChanged += new System.EventHandler(this.textBox9_TextChanged);
             // 
             // textBox10
             // 
@@ -262,6 +267,7 @@
             this.textBox10.Name = "textBox10";
             this.textBox10.Size = new System.Drawing.Size(100, 20);
             this.textBox10.TabIndex = 21;
+            this.textBox10.TextChanged += new System.EventHandler(this.textBox10_TextChanged);
             // 
             // textBox11
             // 
@@ -271,6 +277,7 @@
             this.textBox11.Name = "textBox11";
             this.textBox11.Size = new System.Drawing.Size(100, 20);
             this.textBox11.TabIndex = 22;
+            this.textBox11.TextChanged += new System.EventHandler(this.textBox11_TextChanged);
             // 
             // textBox12
             // 
@@ -280,6 +287,7 @@
             this.textBox12.Name = "textBox12";
             this.textBox12.Size = new System.Drawing.Size(100, 20);
             this.textBox12.TabIndex = 23;
+            this.textBox12.TextChanged += new System.EventHandler(this.textBox12_TextChanged);
             // 
             // textBox13
             // 

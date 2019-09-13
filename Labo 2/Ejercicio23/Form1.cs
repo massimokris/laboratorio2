@@ -136,5 +136,77 @@ namespace Ejercicio23
     {
 
     }
+
+    private void button3_Click(object sender, EventArgs e)
+    {
+
+      string dolar = textBox2.Text;
+      string cantidadDolar = textBox14.Text;
+
+      int valorDolar, cantidad;
+
+      int.TryParse(dolar, out valorDolar);
+      int.TryParse(cantidadDolar, out cantidad);
+
+      Moneda.Dolar monedaDolar = new Dolar(cantidad, valorDolar);
+
+      Moneda.Peso pesito = (Peso)monedaDolar;
+      Moneda.Euro eurito = (Euro)monedaDolar;
+
+      textBox9.Text = cantidadDolar;
+      textBox7.Text = eurito.GetCantidad().ToString();
+      textBox10.Text = pesito.GetCantidad().ToString();
+    }
+
+    private void textBox7_TextChanged(object sender, EventArgs e)
+    {
+
+    }
+
+    private void textBox9_TextChanged(object sender, EventArgs e)
+    {
+
+    }
+
+    private void textBox10_TextChanged(object sender, EventArgs e)
+    {
+
+    }
+
+    private void button4_Click(object sender, EventArgs e)
+    {
+
+      string peso = textBox3.Text;
+      string cantidadPeso = textBox15.Text;
+
+      int valorPeso, cantidad;
+
+      int.TryParse(peso, out valorPeso);
+      int.TryParse(cantidadPeso, out cantidad);
+
+      Moneda.Peso monedaDolar = new Peso(cantidad, valorPeso);
+
+      Moneda.Dolar dolarsito = (Dolar)monedaDolar;
+      Moneda.Euro eurito = (Euro)monedaDolar;
+
+      textBox12.Text = cantidadPeso;
+      textBox8.Text = eurito.GetCantidad().ToString();
+      textBox11.Text = dolarsito.GetCantidad().ToString();
+    }
+
+    private void textBox12_TextChanged(object sender, EventArgs e)
+    {
+
+    }
+
+    private void textBox11_TextChanged(object sender, EventArgs e)
+    {
+
+    }
+
+    private void textBox8_TextChanged(object sender, EventArgs e)
+    {
+
+    }
   }
 }
