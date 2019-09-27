@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\laboratorio2\CentralTelefonica\CentralTelefonica\obj\Debug\CentralTelefonica.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\laboratorio2\CentralTelefonica\CentralTelefonica\obj\Debug\MainWindow.g.cs
+C:\Users\alumno\Desktop\laboratorio2\CentralTelefonica\CentralTelefonica\obj\Debug\App.g.cs
+C:\Users\alumno\Desktop\laboratorio2\CentralTelefonica\CentralTelefonica\obj\Debug\CentralTelefonica_MarkupCompile.cache
+C:\Users\alumno\Desktop\laboratorio2\CentralTelefonica\CentralTelefonica\obj\Debug\CentralTelefonica_MarkupCompile.lref

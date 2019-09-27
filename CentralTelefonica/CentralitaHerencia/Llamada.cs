@@ -59,12 +59,12 @@ namespace CentralitaHerencia
 
       return response;
     }
-  }
 
-  public enum TipoLlamada
-  {
-    Local,
-    Provincial,
-    Todas
+    public enum TipoLlamada
+    {
+      Local,
+      Provincial,
+      Todas
+    }
   }
 }
