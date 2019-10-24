@@ -24,7 +24,7 @@ namespace Ejercicio26
       int[] negativos = new int[20];
       Random rand = new Random();
 
-      random[1] = -rand.Next(0,100);
+      
       for(int i = 0; i < 20; i++)
       {
 

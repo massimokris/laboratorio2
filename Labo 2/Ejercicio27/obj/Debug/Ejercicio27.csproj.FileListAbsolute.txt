@@ -5,3 +5,10 @@ C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio27\bin\Debug\Ejercicio27.ex
 C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio27\bin\Debug\Ejercicio27.pdb
 C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio27\obj\Debug\Ejercicio27.exe
 C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio27\obj\Debug\Ejercicio27.pdb
+C:\Users\mdiberardino\Desktop\laboratorio2\Labo 2\Ejercicio27\bin\Debug\Ejercicio27.exe.config
+C:\Users\mdiberardino\Desktop\laboratorio2\Labo 2\Ejercicio27\bin\Debug\Ejercicio27.exe
+C:\Users\mdiberardino\Desktop\laboratorio2\Labo 2\Ejercicio27\bin\Debug\Ejercicio27.pdb
+C:\Users\mdiberardino\Desktop\laboratorio2\Labo 2\Ejercicio27\obj\Debug\Ejercicio27.csprojAssemblyReference.cache
+C:\Users\mdiberardino\Desktop\laboratorio2\Labo 2\Ejercicio27\obj\Debug\Ejercicio27.csproj.CoreCompileInputs.cache
+C:\Users\mdiberardino\Desktop\laboratorio2\Labo 2\Ejercicio27\obj\Debug\Ejercicio27.exe
+C:\Users\mdiberardino\Desktop\laboratorio2\Labo 2\Ejercicio27\obj\Debug\Ejercicio27.pdb

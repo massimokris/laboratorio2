@@ -68,12 +68,30 @@ namespace Ejercicio27
         {
           negativo.Enqueue(queue.ElementAt(i));
         }
+
+        Console.Write($"{queue.ElementAt(i)} ");
       }
 
-      List<int> lista = positivo.ToList();
-      
+      Console.WriteLine();
+            List<int> lista = positivo.ToList();
+            lista.Sort();
+            lista.Reverse();
+            
+        for (int i = 0; i < positivo.Count(); i++)
+        {
+            Console.Write($"{positivo.ElementAt(i)} ");
+        }
 
+    Console.WriteLine();
+        for (int i = 0; i < negativo.Count(); i++)
+        {
+            Console.Write($"{negativo.ElementAt(i)} ");
+        }
+
+      
       Console.WriteLine("fin colas");
+      Console.WriteLine("esto esta hecho con colas");
+
       Console.ReadKey();
     }
   }
