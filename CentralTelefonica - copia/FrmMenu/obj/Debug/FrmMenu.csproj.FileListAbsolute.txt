@@ -1,0 +1,16 @@
+C:\Users\mdiberardino\Desktop\laboratorio2\CentralTelefonica - copia\FrmMenu\bin\Debug\FrmMenu.exe.config
+C:\Users\mdiberardino\Desktop\laboratorio2\CentralTelefonica - copia\FrmMenu\bin\Debug\FrmMenu.exe
+C:\Users\mdiberardino\Desktop\laboratorio2\CentralTelefonica - copia\FrmMenu\bin\Debug\FrmMenu.pdb
+C:\Users\mdiberardino\Desktop\laboratorio2\CentralTelefonica - copia\FrmMenu\bin\Debug\CentralitaHerencia.dll
+C:\Users\mdiberardino\Desktop\laboratorio2\CentralTelefonica - copia\FrmMenu\bin\Debug\CentralitaHerencia.pdb
+C:\Users\mdiberardino\Desktop\laboratorio2\CentralTelefonica - copia\FrmMenu\bin\Debug\CentralitaHerencia.dll.config
+C:\Users\mdiberardino\Desktop\laboratorio2\CentralTelefonica - copia\FrmMenu\obj\Debug\FrmMenu.csprojAssemblyReference.cache
+C:\Users\mdiberardino\Desktop\laboratorio2\CentralTelefonica - copia\FrmMenu\obj\Debug\FrmMenu.FrmMenu.resources
+C:\Users\mdiberardino\Desktop\laboratorio2\CentralTelefonica - copia\FrmMenu\obj\Debug\FrmMenu.FrmLlamador.resources
+C:\Users\mdiberardino\Desktop\laboratorio2\CentralTelefonica - copia\FrmMenu\obj\Debug\FrmMenu.FrmMostrar.resources
+C:\Users\mdiberardino\Desktop\laboratorio2\CentralTelefonica - copia\FrmMenu\obj\Debug\FrmMenu.Properties.Resources.resources
+C:\Users\mdiberardino\Desktop\laboratorio2\CentralTelefonica - copia\FrmMenu\obj\Debug\FrmMenu.csproj.GenerateResource.cache
+C:\Users\mdiberardino\Desktop\laboratorio2\CentralTelefonica - copia\FrmMenu\obj\Debug\FrmMenu.csproj.CoreCompileInputs.cache
+C:\Users\mdiberardino\Desktop\laboratorio2\CentralTelefonica - copia\FrmMenu\obj\Debug\FrmMenu.csproj.CopyComplete
+C:\Users\mdiberardino\Desktop\laboratorio2\CentralTelefonica - copia\FrmMenu\obj\Debug\FrmMenu.exe
+C:\Users\mdiberardino\Desktop\laboratorio2\CentralTelefonica - copia\FrmMenu\obj\Debug\FrmMenu.pdb
