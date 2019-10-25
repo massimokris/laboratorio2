@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio47Prueba\bin\Debug\Ejercicio47Prueba.exe.config
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio47Prueba\bin\Debug\Ejercicio47Prueba.exe
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio47Prueba\bin\Debug\Ejercicio47Prueba.pdb
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio47Prueba\bin\Debug\Ejercicio47.dll
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio47Prueba\bin\Debug\Ejercicio47.pdb
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio47Prueba\obj\Debug\Ejercicio47Prueba.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio47Prueba\obj\Debug\Ejercicio47Prueba.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio47Prueba\obj\Debug\Ejercicio47Prueba.csproj.CopyComplete
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio47Prueba\obj\Debug\Ejercicio47Prueba.exe
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio47Prueba\obj\Debug\Ejercicio47Prueba.pdb

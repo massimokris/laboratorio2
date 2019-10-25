@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio47\bin\Debug\Ejercicio47.dll
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio47\bin\Debug\Ejercicio47.pdb
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio47\obj\Debug\Ejercicio47.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio47\obj\Debug\Ejercicio47.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio47\obj\Debug\Ejercicio47.dll
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio47\obj\Debug\Ejercicio47.pdb
