@@ -1,8 +1,9 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Ejercicio54;
 
 namespace Ejercicio42
 {
@@ -21,6 +22,7 @@ namespace Ejercicio42
             }
             catch (Exception e)
             {
+                ArchivoTexto.Guardar(e.ToString());
                 Console.WriteLine($"main {e.Message}");
                 Console.ReadKey();
             }

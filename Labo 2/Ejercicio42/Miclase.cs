@@ -1,8 +1,9 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Ejercicio54;
 
 namespace Ejercicio42
 {
@@ -23,6 +24,7 @@ namespace Ejercicio42
             }
             catch (Exception e)
             {
+                ArchivoTexto.Guardar(e.ToString());
                 Console.WriteLine(e.Message);
                 throw e;
             }
@@ -30,19 +32,20 @@ namespace Ejercicio42
 
         public Miclase(int a)
         {
-            this.b = a;
+            
             try
             {
                 Miclase.MiMetodo();
             }
             catch (Exception e)
             {
+                ArchivoTexto.Guardar(e.ToString());
                 Console.WriteLine(e.Message);
                 throw e;
             }
         }
 
-        static void MiMetodo ()
+        public static void MiMetodo ()
         {
             throw new DivideByZeroException();
         }
@@ -55,6 +58,7 @@ namespace Ejercicio42
             }
             catch (Exception e)
             {
+                ArchivoTexto.Guardar(e.ToString());
                 Console.WriteLine(e.Message);
                 throw new UnaExcepcion($"Mensaje de exception", e);
             }

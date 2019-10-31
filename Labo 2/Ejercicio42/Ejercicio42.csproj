@@ -50,5 +50,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Ejercicio54\Ejercicio54.csproj">
+      <Project>{fd79cb8c-7bb2-4dce-8356-29a4750bff85}</Project>
+      <Name>Ejercicio54</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
