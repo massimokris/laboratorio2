@@ -12,7 +12,6 @@ namespace CentralitaHerencia
     protected float duracion;
     protected string nvoDestino;
     protected string nvoOrigen;
-    protected float costoLlamada;
 
     public abstract float CostoLlamada
     {
