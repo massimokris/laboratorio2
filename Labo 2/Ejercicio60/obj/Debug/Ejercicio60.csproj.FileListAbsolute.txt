@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio60\bin\Debug\Ejercicio60.exe.config
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio60\bin\Debug\Ejercicio60.exe
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio60\bin\Debug\Ejercicio60.pdb
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio60\obj\Debug\Ejercicio60.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio60\obj\Debug\Ejercicio60.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio60\obj\Debug\Ejercicio60.exe
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\Ejercicio60\obj\Debug\Ejercicio60.pdb

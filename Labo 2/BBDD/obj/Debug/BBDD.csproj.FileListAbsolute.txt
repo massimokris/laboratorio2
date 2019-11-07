@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\BBDD\bin\Debug\BBDD.dll
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\BBDD\bin\Debug\BBDD.pdb
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\BBDD\obj\Debug\BBDD.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\BBDD\obj\Debug\BBDD.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\BBDD\obj\Debug\BBDD.dll
+C:\Users\alumno\Desktop\laboratorio2\Labo 2\BBDD\obj\Debug\BBDD.pdb

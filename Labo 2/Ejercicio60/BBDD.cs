@@ -11,13 +11,14 @@ namespace Ejercicio60
   {
     static void Main(string[] args)
     {
-      SqlConnection sqlConnection = new SqlConnection();
+      String connectionStr = @"Data Source=LAB3PC03\SQLEXPRESS; Initial Catalog =AdventureWorks2012; Integrated Security = True";
+      SqlConnection sqlConnection = new SqlConnection(connectionStr);
       SqlCommand sqlCommand = new SqlCommand();
 
       sqlCommand.CommandType = System.Data.CommandType.Text;
       sqlCommand.Connection = sqlConnection;
 
-      sqlCommand.CommandText = "SELECT nombre FROM Personas";
+      sqlCommand.CommandText = "select top 10 name from Production.Product";
       try
       {
         sqlConnection.Open();
@@ -26,14 +27,16 @@ namespace Ejercicio60
 
         while (oDr.Read())
         {
-          string aux = oDr["nombre"].ToString();
+          string aux = oDr["name"].ToString();
+          Console.WriteLine($"{aux}");
         }
       }
-      catch (Exception)
+      catch (Exception e)
       {
-
+        Console.WriteLine($"{e}");
         throw;
       }
+      Console.ReadKey();
     }
   }
 }
