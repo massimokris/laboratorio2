@@ -54,7 +54,7 @@ namespace Ejercicio60_
 
     private void FrmBase_Load(object sender, EventArgs e)
     {
-      string source = @"LAB3PC03\SQLSERVER";
+      string source = @"LAB3PC03\SQLEXPRESS";
       string baseexacta = "AdventureWorks2012";
       this.baseDatos = new BaseD(source, baseexacta);
     }
