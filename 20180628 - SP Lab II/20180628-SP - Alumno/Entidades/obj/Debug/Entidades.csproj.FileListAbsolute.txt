@@ -1,0 +1,11 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP.v1\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP.v1\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP.v1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP.v1\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP.v1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.pdb
