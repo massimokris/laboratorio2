@@ -21,20 +21,24 @@ namespace Entidades
         
         public string NombreLey
         {
-          get { return this.nombreLey; }
+            get { return this.nombreLey; }
+            set { }
         }
 
         public short Afirmativo
         {
           get { return this.contadorAfirmativo; }
+            set { }
         }
         public short Negativo
         {
           get { return this.contadorNegativo; }
+            set { }
         }
         public short Abstencion
         {
           get { return this.contadorAbstencion; }
+            set { }
         }
 
         public Votacion(string nombreLey, Dictionary<string, EVoto> senadores)
@@ -42,6 +46,8 @@ namespace Entidades
             this.nombreLey = nombreLey;
             this.senadores = senadores;
         }
+
+        public Votacion() { }
 
         public void Simular()
         {

@@ -15,6 +15,7 @@ using Entidades;
 
 namespace _20180628_SP.v1
 {
+    [Serializable]
     public partial class FrmSenadores : Form
     {
         Votacion votacion;
@@ -92,7 +93,7 @@ namespace _20180628_SP.v1
                     MessageBox.Show((int.Parse(lblAfirmativo.Text) - int.Parse(lblNegativo.Text)) > 0 ? "Es Ley" : "No es Ley", txtLeyNombre.Text);
                     // Guardar resultados
                     new SerializarXML<Votacion>().Guardar("xmlParcial", this.votacion);
-                    new Dao().Guardar("no importa", this.votacion);
+                    //new Dao().Guardar("no importa", this.votacion);
                 }
             }
         }

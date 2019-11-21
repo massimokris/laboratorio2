@@ -7,3 +7,12 @@ C:\Users\alumno\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\A
 C:\Users\alumno\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 C:\Users\alumno\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Archivos\obj\Debug\Archivos.dll
 C:\Users\alumno\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Archivos\obj\Debug\Archivos.pdb
+C:\Users\mdiberardino\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Archivos\bin\Debug\Archivos.dll
+C:\Users\mdiberardino\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Archivos\bin\Debug\Archivos.pdb
+C:\Users\mdiberardino\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Archivos\bin\Debug\Entidades.dll
+C:\Users\mdiberardino\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Archivos\bin\Debug\Entidades.pdb
+C:\Users\mdiberardino\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\mdiberardino\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\mdiberardino\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\mdiberardino\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Archivos\obj\Debug\Archivos.dll
+C:\Users\mdiberardino\Desktop\laboratorio2\20180628 - SP Lab II\20180628-SP - Alumno\Archivos\obj\Debug\Archivos.pdb
